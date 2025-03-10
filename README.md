@@ -12,6 +12,7 @@
 .Frontand development : Flutter , Dart,C++,c#.
 •Web Languages Html and CSS and JavaScript
 •Databases:SQL Server.
+•Design: xd , Illustrator,Photoshop.
 ----------------------------------------
 ⛓Learning now
 •Ruby
